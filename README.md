@@ -13,7 +13,7 @@ Workflows for Alfred 2.
 
 A workflow for reading the news from cnbeta.com
 
-[\[Download Link\]](https://raw.github.com/voidman/Alfred-Workflows/master/cnbeta/cnbeta.alfredworkflow)
+[\[Download Link\]](https://raw.github.com/voidman/Alfred-Workflows/master/cnbeta/cnBeta News 1.0b.alfredworkflow)
 
 ![Example 1](https://raw.github.com/voidman/Alfred-Workflows/master/cnbeta/screenshots/1.png)
 
