@@ -9,14 +9,15 @@ Workflows for Alfred 2.
 
 ## Workflows list
 
-## cbnews
+## cnBeta
 
-A workflow for reading the news from cnbeta.com
+A workflow for reading the news from cnbeta.com.
 
-[\[Download Link\]](https://raw.github.com/voidman/Alfred-Workflows/master/cnbeta/cnBeta News 1.0b.alfredworkflow)
+[\[Download Link\]](https://raw.github.com/voidman/Alfred-Workflows/master/cnbeta/cnBeta News 1.0.alfredworkflow)
 
 ![Example 1](https://raw.github.com/voidman/Alfred-Workflows/master/cnbeta/screenshots/1.png)
+![Example 1](https://raw.github.com/voidman/Alfred-Workflows/master/cnbeta/screenshots/2.png)
 
 ### Usage
 
-Type `cnbeta` in Alfred.
+Type `cb` in Alfred.
